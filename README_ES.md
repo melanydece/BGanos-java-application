@@ -148,5 +148,6 @@ https://github.com/melanydece/BGanos-UML-modeling
 
 ## Equipo
 
-Proyecto desarrollado de forma colaborativa por un equipo de 12 miembros en la asignatura **Modelado de Software**.  
-Puedes echar un vistazo a la lista completa de colaboradores en la sección "Contributors" del repositorio.
+Proyecto desarrollado de forma colaborativa por un equipo de 12 miembros en la asignatura **Modelado de Software**.
+
+Puedes echar un vistazo a la lista completa de colaboradores en la sección "Contribuidores" del repositorio.

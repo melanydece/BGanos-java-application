@@ -91,9 +91,9 @@ Note: Patterns applied follow course requirements and illustrate layered archite
 ## Project Structure
 
 ```
-├── x
-├── x
-├── x
+├── Presentation Layer
+├── Business Layer
+├── Integration Layer
 ```
 
 Folder names remain in Spanish as in the original implementation.
@@ -147,4 +147,6 @@ https://github.com/melanydece/BGanos-UML-modeling
 
 ## Team
 
-Developed collaboratively by a 12-member team in an academic Software Engineering context. The full list of contributors can be found in the repository's "Contributors" section.
+Developed collaboratively by a 12-member team.
+
+The full list of contributors can be found in the repository's "Contributors" section.
